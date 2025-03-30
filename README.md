@@ -4,6 +4,7 @@ I used Claude to generate the boilerplate for the Express server, along with the
 
 # Examples
 
+Successful Booking
 ![Successful Booking](./images/success.png)
 ![Conflict](./images/conflict.png)
 ![Business Hours](./images/businessHours.png)
